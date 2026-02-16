@@ -66,3 +66,17 @@ h1, h2 {
 .inter-bold {
   font-weight: 700;
 }
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+p {
+  font-size: 16px;
+}

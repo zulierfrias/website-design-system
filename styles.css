@@ -10,7 +10,7 @@
 }
 
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Inter',if;
     margin: 0;
     padding: 40px;
     background-color: #f8f9fa;
@@ -21,6 +21,7 @@ section {
 }
 
 h1, h2 {
+    font-family: 'Poppins', sans-serif;
     margin-bottom: 20px;
 }
 
@@ -46,4 +47,22 @@ h1, h2 {
 
 .accent {
   background-color: var(--accent);
+}
+
+.poppins-regular {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+}
+
+.poppins-bold {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.inter-regular {
+  font-weight: 400;
+}
+
+.inter-bold {
+  font-weight: 700;
 }
